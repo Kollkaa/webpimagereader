@@ -10,4 +10,4 @@ Refer to WebPImageReaderSpi that reads the image using javax.imageio.
 
 Also, there are unit tests written for testing the webp image reader.
 
-
+#### NOTE: This is a reader ONLY, you would need to write a WriteSpi to work with Imageio
